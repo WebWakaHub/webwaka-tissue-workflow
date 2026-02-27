@@ -1,0 +1,20 @@
+{
+  "name": "@webwaka/tissue-workflow",
+  "version": "0.1.0",
+  "description": "Workflow orchestration tissue that manages multi-step process execution across cells, with offline-first step queuing and resumption for Nigeria-first reliability.",
+  "main": "src/entity.ts",
+  "types": "src/types.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest --coverage",
+    "lint": "eslint src/"
+  },
+  "keywords": [
+    "webwaka",
+    "tissue",
+    "workflow",
+    "offline-first",
+    "nigeria-first"
+  ],
+  "license": "UNLICENSED"
+}
