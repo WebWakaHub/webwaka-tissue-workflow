@@ -16,5 +16,10 @@
     "offline-first",
     "nigeria-first"
   ],
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@webwaka/cell-cmd-process": "workspace:*",
+    "@webwaka/cell-event-dispatch": "workspace:*",
+    "@webwaka/cell-validate-exec": "workspace:*"
+  }
 }
